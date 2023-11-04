@@ -12,6 +12,7 @@ python -m venv .venv``
 
 En vs code
 ``Control+shift +P: select interpreter``
+O en una terminal: ``source .venv/bin/activate``
 
 ``python -m pip install flet``
 
