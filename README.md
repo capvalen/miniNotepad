@@ -10,6 +10,9 @@ python -m venv .venv``
 
 ``python -m ensurepip --upgrade``
 
+En vs code
+``Control+shift +P: select interpreter``
+
 ``python -m pip install flet``
 
 ``pip install flet``
