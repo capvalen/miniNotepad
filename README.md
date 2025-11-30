@@ -7,6 +7,8 @@ Comandos usados:
 
 ``
 python -m venv .venv``
+``
+source .venv/bin/activate ``
 
 ``python -m ensurepip --upgrade``
 
